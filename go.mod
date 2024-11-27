@@ -4,6 +4,11 @@ go 1.23
 
 toolchain go1.23.3
 
+replace (
+	github.com/livekit/protocol v1.27.2-0.20241125042926-792495362f28 => github.com/visanalexandru/protocol v1.27.2-0.20241125042926-792495362f28
+
+)
+
 require (
 	github.com/bep/debounce v1.2.1
 	github.com/d5/tengo/v2 v2.17.0

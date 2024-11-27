@@ -166,8 +166,6 @@ github.com/livekit/mageutil v0.0.0-20230125210925-54e8a70427c1 h1:jm09419p0lqTkD
 github.com/livekit/mageutil v0.0.0-20230125210925-54e8a70427c1/go.mod h1:Rs3MhFwutWhGwmY1VQsygw28z5bWcnEYmS1OG9OxjOQ=
 github.com/livekit/mediatransportutil v0.0.0-20241125052448-0e9ef3242e3b h1:NRCk6PsP/Ge6A/LsyUuTej9iZFZsAPHOLwQcupZQSBw=
 github.com/livekit/mediatransportutil v0.0.0-20241125052448-0e9ef3242e3b/go.mod h1:jwKUCmObuiEDH0iiuJHaGMXwRs3RjrB4G6qqgkr/5oE=
-github.com/livekit/protocol v1.27.2-0.20241125042926-792495362f28 h1:AJZWD2TWUPerkLujh5ZP1jvCYhyxAFfWq1z1bwapHzU=
-github.com/livekit/protocol v1.27.2-0.20241125042926-792495362f28/go.mod h1:eYXfNUiUliCTgLsDKhhObicDypc1eNc6M0MOGI/z7SU=
 github.com/livekit/psrpc v0.6.1-0.20241018124827-1efff3d113a8 h1:Ibh0LoFl5NW5a1KFJEE0eLxxz7dqqKmYTj/BfCb0PbY=
 github.com/livekit/psrpc v0.6.1-0.20241018124827-1efff3d113a8/go.mod h1:CQUBSPfYYAaevg1TNCc6/aYsa8DJH4jSRFdCeSZk5u0=
 github.com/mackerelio/go-osstat v0.2.5 h1:+MqTbZUhoIt4m8qzkVoXUJg1EuifwlAJSk4Yl2GXh+o=
@@ -324,6 +322,8 @@ github.com/urfave/cli/v2 v2.27.4 h1:o1owoI+02Eb+K107p27wEX9Bb8eqIoZCfLXloLUSWJ8=
 github.com/urfave/cli/v2 v2.27.4/go.mod h1:m4QzxcD2qpra4z7WhzEGn74WZLViBnMpb1ToCAKdGRQ=
 github.com/urfave/negroni/v3 v3.1.1 h1:6MS4nG9Jk/UuCACaUlNXCbiKa0ywF9LXz5dGu09v8hw=
 github.com/urfave/negroni/v3 v3.1.1/go.mod h1:jWvnX03kcSjDBl/ShB0iHvx5uOs7mAzZXW+JvJ5XYAs=
+github.com/visanalexandru/protocol v1.27.2-0.20241125042926-792495362f28 h1:3r0AKqDUDV3fZmP0mpMEa2NhVv/qpxyus7ylJ10q/x4=
+github.com/visanalexandru/protocol v1.27.2-0.20241125042926-792495362f28/go.mod h1:eYXfNUiUliCTgLsDKhhObicDypc1eNc6M0MOGI/z7SU=
 github.com/wlynxg/anet v0.0.3/go.mod h1:eay5PRQr7fIVAMbTbchTnO9gG65Hg/uYGdc7mguHxoA=
 github.com/wlynxg/anet v0.0.5 h1:J3VJGi1gvo0JwZ/P1/Yc/8p63SoW98B5dHkYDmpgvvU=
 github.com/wlynxg/anet v0.0.5/go.mod h1:eay5PRQr7fIVAMbTbchTnO9gG65Hg/uYGdc7mguHxoA=
